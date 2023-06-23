@@ -3,11 +3,11 @@
 - 🔭 II'm currently working with full stack developer
 - 🌱 I’m currently studying HTML, CSS, SASS, Bootstrap, JS, ES6, PHP, MySQL, JQuery, MVC, APIs, IONIC
 
-<div>
+
 <a href="https://github.com/leandrogladstone">
 <img height="180em" src="ttps://github-readme-stats.vercel.app/api?username=leandrogladstone&show_icons=true&theme=radical">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrogladstone&layout=compact)](https://github.com/leandrogladstone/github-readme-stats">
-</div>
+
 
 
 
