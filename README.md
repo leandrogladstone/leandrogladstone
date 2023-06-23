@@ -5,9 +5,10 @@
 
 <div>
 <a href="https://github.com/leandrogladstone">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrogladstone&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrogladstone&layout=compact)](https://github.com/leandrogladstone/github-readme-stats)
+<img height="180em" src="ttps://github-readme-stats.vercel.app/api?username=leandrogladstone&show_icons=true&theme=radical">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrogladstone&layout=compact)](https://github.com/leandrogladstone/github-readme-stats">
 </div>
+
 
 
 <div style="display: inline_block"><br>
