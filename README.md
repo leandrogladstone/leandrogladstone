@@ -1,5 +1,5 @@
 ### Hi I'm Leandro Gladstone 👋
-
+- Sou estudante de programação, dando os primeiros passos
 - 🔭 II'm currently working with full stack developer
 - 🌱 I’m currently studying HTML, CSS, SASS, Bootstrap, JS, ES6, PHP, MySQL, JQuery, MVC, APIs, IONIC
 
