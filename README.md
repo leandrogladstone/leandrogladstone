@@ -1,8 +1,8 @@
 <div align="center">
 <h1> I'm <a href="https://www.linkedin.com/in/leandrogladstone/">Leandro Gladstone</a> </h1>
-- Sou estudante de programação, dando os primeiros passos
-- 🔭 II'm currently working with full stack developer
-- 🌱 I’m currently studying PHP, Js, Css, MySQL, 
+<p>- Sou estudante de programação, dando os primeiros passos</p>
+<p>- 🔭 II'm currently working with full stack developer</p>
+<p>- 🌱 I’m currently studying PHP, Js, Css, MySQL,</p>
 
 
 
