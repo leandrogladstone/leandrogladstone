@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi I'm Leandro Gladstone 👋
 - Sou estudante de programação, dando os primeiros passos
 - 🔭 II'm currently working with full stack developer
@@ -31,4 +32,5 @@
  
   
   
+</div>
 </div>
