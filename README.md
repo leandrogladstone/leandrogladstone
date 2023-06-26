@@ -5,6 +5,9 @@
 - 🌱 I’m currently studying HTML, CSS, SASS, Bootstrap, JS, ES6, PHP, MySQL, JQuery, MVC, APIs, IONIC
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrogladstone&hide_progress=true)
+ <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrogladstone&layout=compact&theme=radical">
+  </p>
 
 
 
