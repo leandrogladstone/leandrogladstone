@@ -4,6 +4,8 @@
 - 🔭 II'm currently working with full stack developer
 - 🌱 I’m currently studying HTML, CSS, SASS, Bootstrap, JS, ES6, PHP, MySQL, JQuery, MVC, APIs, IONIC
 
+<h1> I'm <a href="https://www.linkedin.com/in/leandrogladstone/">Leandro Gladstone ✨</a> </h1>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrogladstone&hide_progress=true)
  <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrogladstone&layout=compact&theme=radical">
